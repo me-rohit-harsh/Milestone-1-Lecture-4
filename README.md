@@ -1,18 +1,18 @@
 # ***🌟Give Star If you find this helpful :)🌟***
 # 1. ***Find output***
-![1 Find output](https://user-images.githubusercontent.com/81718623/191869258-2cad2a26-5405-44c7-a637-302bb9b748f4.jpg)
+![1 Find output](https://user-images.githubusercontent.com/81718623/191870294-07728470-9c7c-420a-9d97-c1b76b1c251e.jpg)
 # 2. ***Find output***
-![2 Find output](https://user-images.githubusercontent.com/81718623/191869341-741e86fb-cde6-4983-ad60-1bfcd93fbe3a.jpg)
+![2 Find output](https://user-images.githubusercontent.com/81718623/191870363-c52faea5-ed16-4449-af68-aab54b135862.jpg)
 # 3. ***Find output***
-![3 Find the output](https://user-images.githubusercontent.com/81718623/191869388-6a68dc38-b233-4817-9c1c-a99e32f70052.jpg)
+![3 Find the output](https://user-images.githubusercontent.com/81718623/191870403-68eb1131-7339-4eb2-a97e-ec1281a2be64.jpg)
 #4. ***Figure out the output***
 ![4 Figure out the output](https://user-images.githubusercontent.com/81718623/191869397-f1178645-00f1-4119-92aa-cbdb41157074.jpg)
 # 5. ***What will be the output***
-![5 What will be the output](https://user-images.githubusercontent.com/81718623/191869418-af15762b-965c-4b03-9c99-674a83fb74ac.jpg)
+![5 What will be the output](https://user-images.githubusercontent.com/81718623/191870491-bceb48c7-eb6e-4576-bc51-7a7a4d392841.jpg)
 # 6. ***Positive Negative***
 ![6 Positive Negative](https://user-images.githubusercontent.com/81718623/191869457-e31a44bb-d82b-4e72-8eb1-21d60f561488.jpg)
 # 7. ***FInd the output***
-![7 Find the output](https://user-images.githubusercontent.com/81718623/191869522-6755b1f1-28c8-4750-9a06-f530e2fb2163.jpg)
+![7 Find the output](https://user-images.githubusercontent.com/81718623/191870535-c8b5acc8-a421-4106-982f-d97cbfcf434a.jpg)
 # 8. ***Find the output***
 ![8 Find the output](https://user-images.githubusercontent.com/81718623/191869568-7e74528d-7cfc-4089-9f37-8ee517171c2b.jpg)
 # 9. ***Find the output***
@@ -36,7 +36,7 @@ public class Solution {
     }
 }
 # 11. ***Number of hello***
-![11 Number of hello](https://user-images.githubusercontent.com/81718623/191869799-ea73eddc-f632-498b-aba9-0abe94f2e2c4.jpg)
+![11 Number of hello](https://user-images.githubusercontent.com/81718623/191870570-47bb548c-fa29-4a72-a7a3-85f28b369bdf.jpg)
 # 12. ***Number of hello 2***
 ![12 Number of hello 2](https://user-images.githubusercontent.com/81718623/191869828-02bb7b39-a7fd-4fc2-995a-76c1118cd286.jpg)
 # 13. ***Same output***
