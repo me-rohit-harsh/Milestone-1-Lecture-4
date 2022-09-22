@@ -10,7 +10,7 @@
 # 5. ***What will be the output***
 ![5 What will be the output](https://user-images.githubusercontent.com/81718623/191870491-bceb48c7-eb6e-4576-bc51-7a7a4d392841.jpg)
 # 6. ***Positive Negative***
-![6 Positive Negative](https://user-images.githubusercontent.com/81718623/191869457-e31a44bb-d82b-4e72-8eb1-21d60f561488.jpg)
+![6 Positive Negative](https://user-images.githubusercontent.com/81718623/191870657-619ccb5f-1b7a-47b7-acc6-ae2e224dcf30.jpg)
 # 7. ***FInd the output***
 ![7 Find the output](https://user-images.githubusercontent.com/81718623/191870535-c8b5acc8-a421-4106-982f-d97cbfcf434a.jpg)
 # 8. ***Find the output***
